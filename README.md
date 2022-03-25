@@ -1,2 +1,2 @@
-# Soka_login
-Soka login serveur dofus 1.29
+# Canabise_login
+Canabise login serveur dofus 1.29
